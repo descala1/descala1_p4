@@ -1,0 +1,28 @@
+{
+  "name": "jquerytest",
+  "version": "1.0.0",
+  "description": "messing around w/ jQuery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/descala1/jQueryTest.git"
+  },
+  "author": "daniel escalante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/descala1/jQueryTest/issues"
+  },
+  "homepage": "https://github.com/descala1/jQueryTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "jquery": "^3.3.1"
+  }
+}
